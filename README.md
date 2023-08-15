@@ -4,6 +4,9 @@ Video Reference：
 
 https://youtu.be/dpQJ4SrESqA
 
+
+![image](https://github.com/junxian428/MQTT_OMRON_PLC_AWS/assets/58724748/31923873-87a5-4167-b525-f528a0624aa8)
+
 Website:
 
 ![image](https://github.com/junxian428/MQTT_OMRON_PLC_AWS/assets/58724748/3765c90f-3771-451d-954e-0f8c5066ebe4)
