@@ -5,6 +5,17 @@ Video Reference：
 https://youtu.be/dpQJ4SrESqA
 
 
+(TLS 1)
+
+
+Completed Demo:
+
+https://youtu.be/x9o_OLzWyoE
+
+![Screenshot (70)](https://github.com/junxian428/MQTT_OMRON_PLC_AWS/assets/58724748/d5f63267-0128-48be-84d6-ddf3ef957e63)
+
+
+
 ![image](https://github.com/junxian428/MQTT_OMRON_PLC_AWS/assets/58724748/31923873-87a5-4167-b525-f528a0624aa8)
 
 Website:
